@@ -1,7 +1,7 @@
 .holder {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around; /* Distributes space around items */
+  justify-content: space-evenly; /* Distributes space around items */
 }
 
 /* Optional styling for individual items */
